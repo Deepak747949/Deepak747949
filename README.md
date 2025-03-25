@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7B800&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepak+Kumar!;Data+Analyst;Power+BI+%7C+Python+%7C+SQL+%7C+Tableau;Turning+Data+Into+Insights+%F0%9F%93%88" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://github.com/Deepak747949/Deepak747949/blob/main/Coming%20Soon%20Minimalist%20Facebook%20Cover.png" width="100%" alt="Deepak Kumar Banner">
