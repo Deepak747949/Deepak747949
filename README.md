@@ -11,13 +11,23 @@
 
 ---
 
-## 👨‍💻 About Me:
-- 🎓 **MCA Student | Aspiring Data Analyst**
-- 🌱 Currently enhancing skills in **Machine Learning & Business Intelligence**
-- 🚀 Exploring **Power BI, Tableau, Python, SQL & Data Analytics**
-- 💼 **Portfolio & Projects:** [LinkedIn](http://www.linkedin.com/in/deepak-kumar-635bb8324)
-- 📫 **Contact:** deepakraja1120@gmail.com  
-- ⚡ **Fun Fact:** I love **Photography 📸 & Traveling 🌍**  
+## 🚀 About Me
+🎓 **MCA Student | Aspiring Data Analyst**  
+📊 Passionate about **Business Intelligence, Data Visualization & Data Storytelling**  
+📚 Constantly learning and evolving in **Power BI, Tableau, Python, SQL, and Machine Learning**  
+💡 Strong believer in **data-driven decision-making** and its impact on businesses.  
+
+---
+
+### 🔥 What I Do:
+- 📈 Transform raw data into **meaningful insights**.
+- 📊 Build **interactive dashboards** using Power BI & Tableau.
+- 🐍 Perform **data analysis & automation** using Python.
+- 🛢️ Write **efficient SQL queries** for data retrieval & processing.
+
+🔗 **Portfolio & Projects:** [LinkedIn](http://www.linkedin.com/in/deepak-kumar-635bb8324)  
+📫 **Contact:** deepakraja1120@gmail.com  
+⚡ **Fun Fact:** I love **Photography 📸, Traveling 🌍 & Exploring Tech Trends!**
 
 ---
 
@@ -73,20 +83,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak747949&theme=dark" alt="GitHub Streak">
 </p>
 
----
-
-## 📌 Featured Projects:
-### 🚀 Data Analysis & Visualization
-- **[IPL Data Analysis Dashboard](https://github.com/Deepak747949/IPL-Data-Analysis-PowerBI)**
-- **[Car Sales Dashboard (Power BI)](https://github.com/Deepak747949/Car-Sales-Dashboard)**
-- **[Google Trends IT Sector Analysis](https://github.com/Deepak747949/Google-Trends-IT-Analysis)**
-
-### 📊 Exploratory Data Analysis (EDA)
-- **[Olympics Data Analysis](https://github.com/Deepak747949/Olympics-EDA)**
-- **[Sales Data EDA](https://github.com/Deepak747949/Sales-Data-EDA)**
-
-Check out more projects **[here](https://github.com/Deepak747949?tab=repositories)**! 🚀
-
----
-
-⭐ **If you find my work useful, consider giving a star to my repositories!** 🌟
