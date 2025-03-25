@@ -17,8 +17,6 @@
 📚 Constantly learning and evolving in **Power BI, Tableau, Python, SQL, and Machine Learning**  
 💡 Strong believer in **data-driven decision-making** and its impact on businesses.  
 
----
-
 ### 🔥 What I Do:
 - 📈 Transform raw data into **meaningful insights**.
 - 📊 Build **interactive dashboards** using Power BI & Tableau.
@@ -31,41 +29,31 @@
 
 ---
 
-## 📢 Connect with Me:
-<p align="center">
-  <a href="https://linkedin.com/in/deepak-kumar-635bb8324" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Deepak Kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/deepak-kumar-635bb8324" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://instagram.com/iitz_deepak_07" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+  <a href="https://instagram.com/iitz_deepak_07" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
-  <a href="https://www.hackerrank.com/deepakraja1120" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Deepak-green?style=for-the-badge&logo=hackerrank" alt="HackerRank Badge">
+  <a href="https://www.hackerrank.com/deepakraja1120" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tools & Technologies:
-<p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="60" height="60"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" alt="MySQL" width="60" height="60"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/7327/7327221.png" alt="Power BI" width="60" height="60"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732213.png" alt="Tableau" width="60" height="60"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="Pandas" width="60" height="60"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="60" height="60"/>
-  </a>
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ---
