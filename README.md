@@ -1,74 +1,90 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
+
+<p align="center">
+  <img src="https://github.com/Deepak747949/Deepak747949/blob/main/Coming%20Soon%20Minimalist%20Facebook%20Cover.png" width="100%" alt="Deepak Kumar Banner">
+</p>
+
 <h3 align="center">🔍 Data Analyst | 📊 Power BI | 🐍 Python | SQL | Machine Learning | Tableau</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepak747949&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/deepak747949/deepak747949/blob/main/banner.png" alt="Deepak Kumar Banner" width="100%" />
-</p>
-
-## 🚀 About Me
-- 🎓 MCA Student | Specializing in **Data Analytics**
-- 📊 Passionate about transforming **data into actionable insights**
-- 📈 Skilled in **Power BI, SQL, Python, Tableau, and Machine Learning**
-- 💡 Always working on **real-world projects** and improving my skills
-
-## 🌟 My Projects
-🔗 Check out my projects on **[LinkedIn](http://www.linkedin.com/in/deepak-kumar-635bb8324)**
-
-## 📫 Contact Me
-- 📩 **Email:** deepakraja1120@gmail.com
-- 💼 **LinkedIn:** [Deepak Kumar](https://www.linkedin.com/in/deepak-kumar-635bb8324)
-- 📷 **Instagram:** [iitz_deepak_07](https://instagram.com/iitz_deepak_07)
-- 🏆 **HackerRank:** [Deepak Kumar](https://www.hackerrank.com/deepakraja1120)
+<h4 align="center">💡 Passionate about transforming data into meaningful insights. 📈 Experienced in data visualization, analysis, and business intelligence. 🚀 Always learning and working on real-world projects!</h4>
 
 ---
 
-## ⚙️ Tech Stack & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+## 👨‍💻 About Me:
+- 🎓 **MCA Student | Aspiring Data Analyst**
+- 🌱 Currently enhancing skills in **Machine Learning & Business Intelligence**
+- 🚀 Exploring **Power BI, Tableau, Python, SQL & Data Analytics**
+- 💼 **Portfolio & Projects:** [LinkedIn](http://www.linkedin.com/in/deepak-kumar-635bb8324)
+- 📫 **Contact:** deepakraja1120@gmail.com  
+- ⚡ **Fun Fact:** I love **Photography 📸 & Traveling 🌍**  
+
+---
+
+## 📢 Connect with Me:
+<p align="center">
+  <a href="https://linkedin.com/in/deepak-kumar-635bb8324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepak Kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+  </a>
+  <a href="https://instagram.com/iitz_deepak_07" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+  </a>
+  <a href="https://www.hackerrank.com/deepakraja1120" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Deepak-green?style=for-the-badge&logo=hackerrank" alt="HackerRank Badge">
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tools & Technologies:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak747949&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak747949&theme=tokyonight" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak747949&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="60" height="60"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" alt="MySQL" width="60" height="60"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/7327/7327221.png" alt="Power BI" width="60" height="60"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732213.png" alt="Tableau" width="60" height="60"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="Pandas" width="60" height="60"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="60" height="60"/>
+  </a>
 </p>
 
 ---
 
-## 🏆 Badges & Certifications
-- ✅ **IBM Data Analysis with Python**
-- ✅ **MongoDB Certification**
-- ✅ **SQL (Advanced) - HackerRank**
-- ✅ **Power BI Projects: IPL Data Analysis, Car Sales Dashboard**
-- ✅ **Tableau, MySQL, and More**
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak747949&show_icons=true&theme=radical" alt="Deepak Kumar's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak747949&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
 
 ---
 
-### 🎨 Profile Banner
-If you want to add a custom banner, create an image (size: **1280x400 px**) and upload it to your repository.
+## 🔥 GitHub Streak:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak747949&theme=dark" alt="GitHub Streak">
+</p>
 
-1. **Create a banner** (Use Canva or Photoshop)
-2. **Upload it to your GitHub repository** (name it `banner.png`)
-3. **Modify this line in the README:**
-   ```md
-   <img src="https://github.com/deepak747949/deepak747949/blob/main/banner.png" alt="Deepak Kumar Banner" width="100%" />
+---
+
+## 📌 Featured Projects:
+### 🚀 Data Analysis & Visualization
+- **[IPL Data Analysis Dashboard](https://github.com/Deepak747949/IPL-Data-Analysis-PowerBI)**
+- **[Car Sales Dashboard (Power BI)](https://github.com/Deepak747949/Car-Sales-Dashboard)**
+- **[Google Trends IT Sector Analysis](https://github.com/Deepak747949/Google-Trends-IT-Analysis)**
+
+### 📊 Exploratory Data Analysis (EDA)
+- **[Olympics Data Analysis](https://github.com/Deepak747949/Olympics-EDA)**
+- **[Sales Data EDA](https://github.com/Deepak747949/Sales-Data-EDA)**
+
+Check out more projects **[here](https://github.com/Deepak747949?tab=repositories)**! 🚀
+
+---
+
+⭐ **If you find my work useful, consider giving a star to my repositories!** 🌟
