@@ -6,7 +6,7 @@
   <img src="https://github.com/Deepak747949/Deepak747949/blob/main/Coming%20Soon%20Minimalist%20Facebook%20Cover.png" width="100%" alt="Deepak Kumar Banner">
 </p>
 
-<h3 align="center">🔍 Data Analyst | 📊 Power BI | 🐍 Python | SQL | Machine Learning | Tableau</h3>
+<h3 align="center">🔍 Data Analyst | 📊 Power BI | 🐍 Python | SQL | Machine Learning | Tableau | Excel</h3>
 <h4 align="center">💡 Passionate about transforming data into meaningful insights. 📈 Experienced in data visualization, analysis, and business intelligence. 🚀 Always learning and working on real-world projects!</h4>
 
 ---
