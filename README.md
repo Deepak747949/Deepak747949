@@ -65,22 +65,19 @@
 <h2 align="center">🤝 Connect With Me 🤝 </h2>
 <div align="center">
   
-<h3 align="center">Connect with me:</h3>
-<p align="center" style="display: flex; justify-content: center; gap: 25px;">
 <a href="mailto:deepakraja1120@gmail.com" target="_blank">
-  <img src="https://github.com/Deepak747949/Deepak747949/blob/main/gmail.png" alt="Email" height="35" width="35" style="border-radius: 50%; box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2); padding: 8px; background: white;"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://linkedin.com/in/deepak-kumar-635bb8324" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" style="border-radius: 50%; box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2); padding: 8px; background: white;"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/iitz_deepak_07" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" style="border-radius: 50%; box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2); padding: 8px; background: white;"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://www.hackerrank.com/deepakraja1120" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="35" width="35" style="border-radius: 50%; box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2); padding: 8px; background: white;"/>
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
 </p>
-
 
 
 <!--Buy me a coffee-->
