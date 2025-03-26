@@ -10,6 +10,10 @@
 <h4 align="center">💡 Passionate about transforming data into meaningful insights. 📈 Experienced in data visualization, analysis, and business intelligence. 🚀 Always learning and working on real-world projects!</h4>
 
 ---
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 
 ## 🚀 About Me
 🎓 **MCA Student | Aspiring Data Analyst**  
@@ -27,20 +31,6 @@
 📫 **Contact:** deepakraja1120@gmail.com  
 ⚡ **Fun Fact:** I love **Photography 📸, Traveling 🌍 & Exploring Tech Trends!**
 
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/deepak-kumar-635bb8324" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/iitz_deepak_07" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/deepakraja1120" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
-  </a>
-</p>
 
 ---
 
@@ -71,3 +61,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak747949&theme=dark" alt="GitHub Streak">
 </p>
 
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/deepak-kumar-635bb8324" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/iitz_deepak_07" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/deepakraja1120" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+  </a>
+</p>
+
+---
