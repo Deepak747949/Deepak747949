@@ -61,43 +61,34 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak747949&theme=dark" alt="GitHub Streak">
 </p>
 
+
 <h2 align="center">🤝 Connect With Me 🤝 </h2>
 <div align="center">
   
-<a href="mailto:deepakkumar@example.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="deepakkumar@example.com" style="margin-bottom: 5px;" />
+<h3 align="center">Connect with me:</h3>
+<p align="center" style="display: flex; justify-content: center; gap: 25px;">
+<a href="mailto:deepakraja1120@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="35" width="35" style="border-radius: 50%; box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2); padding: 8px; background: white;"/>
 </a>
+<a href="https://linkedin.com/in/deepak-kumar-635bb8324" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" style="border-radius: 50%; box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2); padding: 8px; background: white;"/>
+</a>
+<a href="https://instagram.com/iitz_deepak_07" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" style="border-radius: 50%; box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2); padding: 8px; background: white;"/>
+</a>
+<a href="https://www.hackerrank.com/deepakraja1120" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="35" width="35" style="border-radius: 50%; box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2); padding: 8px; background: white;"/>
+</a>
+</p>
 
-<a href="https://x.com/deepak_kumar" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="deepak_kumar" style="margin-bottom: 5px;" />
-</a>
 
-<a href="https://www.instagram.com/deepak_kumar" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="deepak_kumar" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://github.com/deepakkumar" target="_blank">
-<img src="./github.png" width=50 height=50 alt="deepakkumar" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/deepak-kumar/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/deepak_kumar" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="deepak_kumar" style="margin-bottom: 5px;" />
-</a>
-</div>
-<br/>
 
 <!--Buy me a coffee-->
 <div align="center">
 <a href="https://www.buymeacoffee.com/deepakkumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
-
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
