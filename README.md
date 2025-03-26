@@ -68,7 +68,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="display: flex; justify-content: center; gap: 25px;">
 <a href="mailto:deepakraja1120@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="35" width="35" style="border-radius: 50%; box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2); padding: 8px; background: white;"/>
+  <img src="https://github.com/Deepak747949/Deepak747949/blob/main/gmail.png" alt="Email" height="35" width="35" style="border-radius: 50%; box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2); padding: 8px; background: white;"/>
 </a>
 <a href="https://linkedin.com/in/deepak-kumar-635bb8324" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" style="border-radius: 50%; box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2); padding: 8px; background: white;"/>
