@@ -28,7 +28,7 @@
 - 🛢️ Write **efficient SQL queries** for data retrieval & processing.
 
 🔗 **Portfolio & Projects:** [LinkedIn](http://www.linkedin.com/in/deepak-kumar-635bb8324)  
-📫 **Contact:** deepakraja1120@gmail.com  
+📫 **Contact:** deepakkumar2.mcac2024@ritroorkee.com  
 ⚡ **Fun Fact:** I love **Photography 📸, Traveling 🌍 & Exploring Tech Trends!**
 
 
