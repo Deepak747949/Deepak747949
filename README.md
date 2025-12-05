@@ -55,7 +55,7 @@
   <!-- Selenium -->
   <img src="https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
 
-  <!-- API Handling -->
+  <!-- API Integration -->
   <img src="https://img.shields.io/badge/API%20Integration-000?style=for-the-badge&logo=fastapi&logoColor=00C7B7"/>
 
   <!-- Machine Learning -->
@@ -85,8 +85,14 @@
   <!-- Excel -->
   <img src="https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=00FF00"/>
 
-  <!-- SQL / MySQL -->
+  <!-- Advanced Excel -->
+  <img src="https://img.shields.io/badge/Advanced%20Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=00FF8C"/>
+
+  <!-- MySQL -->
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=00E5FF"/>
+
+  <!-- PostgreSQL -->
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=3366FF"/>
 
   <!-- MongoDB -->
   <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=00FF85"/>
@@ -107,8 +113,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=0096FF"/>
 
 </p>
-
-
 
 ## 🔥 GitHub Streak:
 <p align="center">
