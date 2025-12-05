@@ -50,10 +50,9 @@
 
 ---
 
-## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepak747949&show_icons=true&theme=radical" alt="Deepak Kumar's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak747949&layout=compact&theme=radical" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak747949&show_icons=true&hide_border=true&title_color=FFD700&text_color=FFFFFF&icon_color=FFA500&bg_color=0A0A0A" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak747949&layout=compact&hide_border=true&title_color=FFA500&text_color=FFFFFF&bg_color=0A0A0A" height="180px"/>
 </p>
 
 ---
