@@ -31,9 +31,8 @@
 📫 **Contact:** deepakkumar2.mcac2024@ritroorkee.com  
 ⚡ **Fun Fact:** I love **Photography 📸, Traveling 🌍 & Exploring Tech Trends!**
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Deepak747949/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Deepak747949&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
-
 
 ---
 
