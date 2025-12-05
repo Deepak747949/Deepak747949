@@ -30,6 +30,9 @@
 🔗 **Portfolio & Projects:** [LinkedIn](http://www.linkedin.com/in/deepak-kumar-635bb8324)  
 📫 **Contact:** deepakkumar2.mcac2024@ritroorkee.com  
 ⚡ **Fun Fact:** I love **Photography 📸, Traveling 🌍 & Exploring Tech Trends!**
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Deepak747949/count.svg" alt="Visitor Count" />
+</p>
 
 
 ---
