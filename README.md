@@ -36,26 +36,79 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
----
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepak747949&show_icons=true&hide_border=true&title_color=FFD700&text_color=FFFFFF&icon_color=FFA500&bg_color=0A0A0A" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak747949&layout=compact&hide_border=true&title_color=FFA500&text_color=FFFFFF&bg_color=0A0A0A" height="180px"/>
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00E5FF"/>
+
+  <!-- Anaconda -->
+  <img src="https://img.shields.io/badge/Anaconda-000?style=for-the-badge&logo=anaconda&logoColor=3DDC84"/>
+
+  <!-- Web Scraping -->
+  <img src="https://img.shields.io/badge/Web%20Scraping-000?style=for-the-badge&logo=python&logoColor=F7FF00"/>
+
+  <!-- BeautifulSoup -->
+  <img src="https://img.shields.io/badge/BeautifulSoup-000?style=for-the-badge&logo=python&logoColor=ADFF2F"/>
+
+  <!-- Selenium -->
+  <img src="https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
+
+  <!-- API Handling -->
+  <img src="https://img.shields.io/badge/API%20Integration-000?style=for-the-badge&logo=fastapi&logoColor=00C7B7"/>
+
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-000?style=for-the-badge&logo=pytorch&logoColor=FF4500"/>
+
+  <!-- Scikit-learn -->
+  <img src="https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikitlearn&logoColor=FF9900"/>
+
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=9370DB"/>
+
+  <!-- NumPy -->
+  <img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy&logoColor=5DADE2"/>
+
+  <!-- Matplotlib -->
+  <img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=python&logoColor=5D6D7E"/>
+
+  <!-- Seaborn -->
+  <img src="https://img.shields.io/badge/Seaborn-000?style=for-the-badge&logo=python&logoColor=76D7C4"/>
+
+  <!-- Power BI -->
+  <img src="https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi&logoColor=F7DF1E"/>
+
+  <!-- Tableau -->
+  <img src="https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=tableau&logoColor=FF7F00"/>
+
+  <!-- Excel -->
+  <img src="https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=00FF00"/>
+
+  <!-- SQL / MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=00E5FF"/>
+
+  <!-- MongoDB -->
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=00FF85"/>
+
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=FF5733"/>
+
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=F7D708"/>
+
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=FF4500"/>
+
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
+  <!-- VS Code -->
+  <img src="https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=0096FF"/>
+
 </p>
 
----
+
 
 ## 🔥 GitHub Streak:
 <p align="center">
